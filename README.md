@@ -51,10 +51,10 @@
 ```
 pkg install python git
 git clone https://github.com/hilman-bebe/bb-mbf
-python -m pip install -r mbf/requirements.txt
+python -m pip install -r bb-mbf/requirements.txt
 ```
 ### And run this script
 ```
-cd mbf
+cd bbb-mbf
 python run.py
 ```
