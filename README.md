@@ -17,8 +17,8 @@ $termux-setup-storage
 
 $pip install mechanize requests bs4 futures
 
-$git clone https://github.com/BladeKnife/mbf
+$git clone https://github.com/hilman-bebe/bb-mbf
 
-$cd mbf
+$cd bb-mbf
 
-$python mbf.py
+$python bb-mbf.py
